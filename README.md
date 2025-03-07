@@ -10,3 +10,7 @@
 * Mozilla Phabricator: https://phabricator.services.mozilla.com/p/biswa96/
 * Videolan: https://code.videolan.org/Biswa96/
 * Wine: https://gitlab.winehq.org/Biswa96/
+
+### ✨ Featured Contributions
+
+* [Firefox 132.0 release notes](https://www.mozilla.org/en-US/firefox/132.0/releasenotes/)
