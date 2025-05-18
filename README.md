@@ -13,4 +13,5 @@
 
 ### ✨ Featured Contributions
 
+* [Alpine Linux 3.20.0 release notes](https://alpinelinux.org/posts/Alpine-3.20.0-released.html)
 * [Firefox 132.0 release notes](https://www.mozilla.org/en-US/firefox/132.0/releasenotes/)
